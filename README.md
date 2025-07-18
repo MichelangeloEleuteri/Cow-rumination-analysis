@@ -1,5 +1,3 @@
-# ChewCow
-
 # Cow Rumination Phase Detection
 
 **Objective:**  
