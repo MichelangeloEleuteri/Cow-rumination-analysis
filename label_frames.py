@@ -1,4 +1,3 @@
-print("▶ label_frames.py is running")
 import os
 import cv2
 
